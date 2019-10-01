@@ -1,0 +1,68 @@
+15 a 19
+lalbarracin@herrera.unt.edu.ar
+gmolina@herrera.unt.edu.ar
+
+consultar consultas
+
+Regularizar
+1) 80% de asistencia
+2) parcial teorico-practico >=5
+3) aprobar tps 80%
+
+condiciones para promocionar
+1) 80% de asistencia
+2) parcial teorico-practico >=7
+3) aprobar tps 80%
+
+presente 2
+falta justificada 2
+retraso 1
+salir temprano 1
+falta 0
+permitido 6 puntos
+
+++ cuestionarios online tp y práctica por plataforma
+
+++ clase a distancia 30/10 asistencia obligatoria
+
+-tomar apuntes y consultar bibliografia (para entender los temas)
+- ver temario
+
+
+plataforma
+usuario dni
+contraseña mn2
+30.949.678*
+
+Python
+
+Código de materia PU8
+
+desarrollo de software cientifico
+como resolvemos el probelma?
+1- modelo: descripcion del sistema, comportamiento, entradas salidas
+----identificar variables causantes de cambio y establecer conjunto de hipotesis (leyes empiricas)
+2- hacer una simulacion. experimentar
+
+clasificacion de modelos
+- empirico
+- teorico
+- ...
+
+lenguajes compilados e interpretados
+
+python interpretado
+
+clave de maquinas: @lumno2015
+
+EDO: ecuacion diferencial ordinaria (ODE)
+problema de valor inicial
+
+pvi
+errores de redondeo o truncamiento
+metodos de pasos o multpasos
+
+metodos explicitos e implicitos
+______________________________________________
+Metodo de un solo paso
+Serie de taylor - no se usa.. es costoso calcular pero es el mas estable
